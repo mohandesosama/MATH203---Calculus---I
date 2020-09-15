@@ -25,6 +25,9 @@ This course aims to make the students aware of advance of calculus and how they 
 * Logarithmic and Other Functions Defined by Integrals.
 * Area Between Two Curves, Volumes by Slicing, Disks and Washers, Volumes by Cylindrical Shells, Length of a Plane Curve, Area of a Surface of Revolution.
 ## Textbooks
-. Howard Anton, Irl C. Bivens, Stephen Davis, "Calculus: Early Transcendental, International Student Version Combined", 9th ed.,2010 .
-. Stewart J., "Calculus: Early Transcendental", 7th 2012 ed., Brooks/Cole, .
-. Earl W. Swokowski, "Calculus, 5th ed., Tomson Brooks /Cole, Tomson Learning, 1991.
+* Howard Anton, Irl C. Bivens, Stephen Davis, "Calculus: Early Transcendental, International Student Version Combined", 9th ed.,2010 .
+* Stewart J., "Calculus: Early Transcendental", 7th 2012 ed., Brooks/Cole, .
+* Earl W. Swokowski, "Calculus, 5th ed., Tomson Brooks /Cole, Tomson Learning, 1991.
+## Lectures
+### Differentiation
+* Section 1.1 Introduction: Slope and tangent line to a curve [[PDF Notes]()][[Video]()]
