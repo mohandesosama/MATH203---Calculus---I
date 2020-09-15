@@ -30,4 +30,5 @@ This course aims to make the students aware of advance of calculus and how they 
 * Earl W. Swokowski, "Calculus, 5th ed., Tomson Brooks /Cole, Tomson Learning, 1991.
 ## Lectures
 ### Differentiation
-* Section 1.1 Introduction: Slope and tangent line to a curve [[PDF Notes]()][[Video]()]
+* Section 1.1 Introduction: Slope and tangent line to a curve [[PDF Notes](./PDF_Slides/Diff_section1.1.pdf)][[Video](https://youtu.be/GbLFWLAoFOE)]
+* Section 1.2 Differentiation rules for polynomials, exponential, products and quotients[[PDF Notes](./PDF_Slides/Diff_section1.1.pdf)][[Video](https://youtu.be/GbLFWLAoFOE)]
