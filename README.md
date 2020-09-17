@@ -31,4 +31,4 @@ This course aims to make the students aware of advance of calculus and how they 
 ## Lectures
 ### Differentiation
 * Section 1.1 Introduction: Slope and tangent line to a curve [[PDF Notes](./PDF_Slides/Diff_section1.1.pdf)][[Video](https://youtu.be/rANmnZWhXsw)]
-* Section 1.2 Differentiation rules for polynomials, exponential, products and quotients[[PDF Notes](./PDF_Slides/Diff_section1.2.pdf)][[Video](https://youtu.be/GbLFWLAoFOE)]
+* Section 1.2 Differentiation rules for polynomials, exponential, products and quotients[[PDF Notes](./PDF_Slides/Diff_section1.2.pdf)][[Video1](https://youtu.be/GbLFWLAoFOE)][[Video2](https://youtu.be/2o7wsLAnLiA)]
