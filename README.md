@@ -34,5 +34,5 @@ This course aims to make the students aware of advance of calculus and how they 
 * Section 1.2 Differentiation rules for polynomials, exponential, products and quotients[[PDF Notes](./PDF_Slides/Diff_section1.2.pdf)][[Video1](https://youtu.be/GbLFWLAoFOE)][[Video2](https://youtu.be/2o7wsLAnLiA)]
 * Section 1.3, 1.4 Differentiation of trigenometric functions. Chain Rule [[PDF Notes](./PDF_Slides/chapt1-sections_trigenometric_chain_rule.pdf)] [[Video](https://youtu.be/gsl2dN8Wio4)], Proof of six h/h =1 [[Video](https://www.youtube.com/watch?v=Os4dYkL5IuM)]
 * Section 1.5, 1.6 Implicit Differentiation, Derivative of inverse functions and logarithms [[PDF Notes](./PDF_Slides/sections%201.5-1.6%2001_Chapter1_cal_I_2019.pdf)][[Video](https://youtu.be/q6vQwrmQ688)]
-* Section 1.7 L'Hopital's Rule [[PDF Notes](./PDF_Slides/sections%201.5-1.6%2001_Chapter1_cal_I_2019.pdf)][[Video](https://youtu.be/vyUKmWf_Mu0)]
+* Section 1.7 L'Hopital's Rule [[PDF Notes](./PDF_Slides/chapt1.6_L'Hopital's%20Rule_Chapter1_cal_I_2019.pdf)][[Video](https://youtu.be/vyUKmWf_Mu0)]
 
