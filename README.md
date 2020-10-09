@@ -1,4 +1,4 @@
-# MATH 203 Calculus I
+# MATH 203 Calculus I 
 ## Course Objectives
 Having successfully completed this course, the student will be able to:
 * Use the definition of derivate, and compute derivatives using the rules of differentiation.
@@ -29,10 +29,10 @@ This course aims to make the students aware of advance of calculus and how they 
 * Stewart J., "Calculus: Early Transcendental", 7th 2012 ed., Brooks/Cole, .
 * Earl W. Swokowski, "Calculus, 5th ed., Tomson Brooks /Cole, Tomson Learning, 1991.
 ## Lectures
-### Differentiation
+### Chapter 1: Differentiation (Videos are presented in Arabic)
 * Section 1.1 Introduction: Slope and tangent line to a curve [[PDF Notes](./PDF_Slides/Diff_section1.1.pdf)][[Video](https://youtu.be/rANmnZWhXsw)]
 * Section 1.2 Differentiation rules for polynomials, exponential, products and quotients[[PDF Notes](./PDF_Slides/Diff_section1.2.pdf)][[Video1](https://youtu.be/GbLFWLAoFOE)][[Video2](https://youtu.be/2o7wsLAnLiA)]
 * Section 1.3, 1.4 Differentiation of trigenometric functions. Chain Rule [[PDF Notes](./PDF_Slides/chapt1-sections_trigenometric_chain_rule.pdf)] [[Video](https://youtu.be/gsl2dN8Wio4)], Proof of six h/h =1 [[External Video](https://www.youtube.com/watch?v=Os4dYkL5IuM)]
 * Section 1.5, 1.6 Implicit Differentiation, Derivative of inverse functions and logarithms [[PDF Notes](./PDF_Slides/sections%201.5-1.6%2001_Chapter1_cal_I_2019.pdf)][[Video](https://youtu.be/q6vQwrmQ688)]
 * Section 1.7 L'Hopital's Rule [[PDF Notes](./PDF_Slides/chapt1.6_L'Hopital's%20Rule_Chapter1_cal_I_2019.pdf)][[Video](https://youtu.be/vyUKmWf_Mu0)]
-
+* Revision with solving some exercises [[Video](https://youtu.be/G2xMsRIN20E)]
