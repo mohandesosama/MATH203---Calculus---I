@@ -28,8 +28,8 @@ This course aims to make the students aware of advance of calculus and how they 
 * Howard Anton, Irl C. Bivens, Stephen Davis, "Calculus: Early Transcendental, International Student Version Combined", 9th ed.,2010 .
 * Stewart J., "Calculus: Early Transcendental", 7th 2012 ed., Brooks/Cole, .
 * Earl W. Swokowski, "Calculus, 5th ed., Tomson Brooks /Cole, Tomson Learning, 1991.
-## Lectures
-### Chapter 1: Differentiation (Videos are presented in Arabic)
+## Lectures (Videos in Arabic, PDFs in English)
+### Chapter 1: Differentiation 
 * Section 1.1 Introduction: Slope and tangent line to a curve [[PDF Notes](./PDF_Slides/Diff_section1.1.pdf)][[Video](https://youtu.be/rANmnZWhXsw)]
 * Section 1.2 Differentiation rules for polynomials, exponential, products and quotients[[PDF Notes](./PDF_Slides/Diff_section1.2.pdf)][[Video1](https://youtu.be/GbLFWLAoFOE)][[Video2](https://youtu.be/2o7wsLAnLiA)]
 * Section 1.3, 1.4 Differentiation of trigenometric functions. Chain Rule [[PDF Notes](./PDF_Slides/chapt1-sections_trigenometric_chain_rule.pdf)] [[Video](https://youtu.be/gsl2dN8Wio4)], Proof of six h/h =1 [[External Video](https://www.youtube.com/watch?v=Os4dYkL5IuM)]
