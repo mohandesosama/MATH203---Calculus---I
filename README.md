@@ -36,3 +36,6 @@ This course aims to make the students aware of advance of calculus and how they 
 * Section 1.5, 1.6 Implicit Differentiation, Derivative of inverse functions and logarithms [[PDF Notes](./PDF_Slides/sections%201.5-1.6%2001_Chapter1_cal_I_2019.pdf)][[Video](https://youtu.be/q6vQwrmQ688)]
 * Section 1.7 L'Hopital's Rule [[PDF Notes](./PDF_Slides/chapt1.6_L'Hopital's%20Rule_Chapter1_cal_I_2019.pdf)][[Video](https://youtu.be/vyUKmWf_Mu0)]
 * Revision with solving some exercises [[Video](https://youtu.be/G2xMsRIN20E)]
+
+### Chapter 2: Applications of differentiation
+* Section 2.1 Extreme Values of Functions [[PDF Notes]()][[Video](https://youtu.be/0T0Lg0iPo8k)]
