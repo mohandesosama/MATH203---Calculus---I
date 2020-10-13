@@ -38,4 +38,4 @@ This course aims to make the students aware of advance of calculus and how they 
 * Revision with solving some exercises [[Video](https://youtu.be/G2xMsRIN20E)]
 
 ### Chapter 2: Applications of differentiation
-* Section 2.1 Extreme Values of Functions [[PDF Notes]()][[Video](https://youtu.be/0T0Lg0iPo8k)]
+* Section 2.1 Extreme Values of Functions [[PDF Notes](./PDF_Slides/Section%202.1_02_Chapter2_cal_I_2019.pdf)][[Video](https://youtu.be/0T0Lg0iPo8k)]
