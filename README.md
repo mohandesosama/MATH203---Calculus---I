@@ -40,4 +40,4 @@ This course aims to make the students aware of advance of calculus and how they 
 ### Chapter 2: Applications of differentiation
 * Section 2.1 Extreme Values of Functions [[PDF Notes](./PDF_Slides/Section%202.1_02_Chapter2_cal_I_2019.pdf)][[Video](https://youtu.be/0T0Lg0iPo8k)]
 * Section 2.2 The mean Value Theorem [[PDF Notes](./PDF_Slides/section%202.2%20Meanvalue_Chapter2_cal_I_2019.pdf)][[Video](https://youtu.be/YKGPys3xSUw)]
-* Section 2.3 Monotonic functions and the first derivative test [[PDF Notes]()][[Vidoe]()]
+* Section 2.3 Monotonic functions and the first derivative test [[PDF Notes](https://github.com/mohandesosama/MATH203---Calculus---I/blob/master/PDF_Slides/chapt2section2.3_Chapter2_cal_I_2019.pdf)][[Vidoe]()]
