@@ -42,3 +42,6 @@ This course aims to make the students aware of advance of calculus and how they 
 * Section 2.2 The mean Value Theorem [[PDF Notes](./PDF_Slides/section%202.2%20Meanvalue_Chapter2_cal_I_2019.pdf)][[Video](https://youtu.be/YKGPys3xSUw)]
 * Section 2.3 Monotonic functions and the first derivative test [[PDF Notes](./PDF_Slides/chapt2section2.3_Chapter2_cal_I_2019.pdf)][[Vidoe](https://youtu.be/12itTReYJnM)]
 * Section 2.4 Concavity and Curve Sketching [[PDF Notes](./PDF_Slides/section2.4-hapter2_cal_I_2019.pdf)][[Vidoe](https://youtu.be/meBFvJnu7A8)]
+
+### Chapter 3: Integration
+* Section 3.1: Indefinite Integrals and Antiderivative[[PDF Notes](./PDF_Slides/section2.4-hapter2_cal_I_2019.pdf)][[Vidoe](https://youtu.be/meBFvJnu7A8)]
