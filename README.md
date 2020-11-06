@@ -44,4 +44,4 @@ This course aims to make the students aware of advance of calculus and how they 
 * Section 2.4 Concavity and Curve Sketching [[PDF Notes](./PDF_Slides/section2.4-hapter2_cal_I_2019.pdf)][[Vidoe](https://youtu.be/meBFvJnu7A8)]
 
 ### Chapter 3: Integration
-* Section 3.1: Indefinite Integrals and Antiderivative[[PDF Notes](./PDF_Slides/section2.4-hapter2_cal_I_2019.pdf)][[Vidoe](https://youtu.be/meBFvJnu7A8)]
+* Section 3.1: Indefinite Integrals and Antiderivative[[PDF Notes](./PDF_Slides/section3.1_integrals.pdf)][[Vidoe](https://youtu.be/khfFO-Ck-5Q)]
